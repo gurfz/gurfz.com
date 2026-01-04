@@ -11,9 +11,12 @@ export default function Home() {
           GURFZ
         </h1>
         
-        <p className="text-xl md:text-2xl text-zinc-400 max-w-2xl leading-relaxed">
-          Built different. Glitch the ordinary.<br />
-          The future doesn't follow rules.
+        <p className="text-2xl md:text-3xl text-zinc-300 max-w-3xl leading-relaxed font-light">
+          Hardware and software innovation company
+        </p>
+        
+        <p className="text-xl text-zinc-500 max-w-2xl">
+          Pushing boundaries at the intersection of cutting-edge hardware and intelligent software.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-6 mt-8">
@@ -21,7 +24,7 @@ export default function Home() {
             href="mailto:gurfz@gurfz.com"
             className="px-8 py-4 text-lg font-medium bg-gradient-to-r from-purple-600 to-cyan-600 rounded-full hover:from-purple-700 hover:to-cyan-700 transition-all shadow-lg shadow-purple-500/30"
           >
-            Say Hello
+            Get in Touch
           </a>
           <a
             href="#"
